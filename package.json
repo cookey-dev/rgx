@@ -1,0 +1,15 @@
+{
+  "name": "rgx",
+  "version": "1.0.0",
+  "description": "Rubix Cube Solver robot",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Rowan C",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "node-poweredup": "^8.0.5",
+    "python-shell": "^5.0.0"
+  }
+}
